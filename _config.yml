@@ -2,6 +2,7 @@ name: "Charles' Homepage"
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.97485
+title: Testing 1 2 3
 cta:
   domain: null
   bucket: null
