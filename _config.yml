@@ -1,7 +1,7 @@
 name: "Charles' Homepage"
 favicon: null
-layout_spectrum: 0.17463298770599067
-typography_spectrum: 0.37834457610733807
+layout_spectrum: 1
+typography_spectrum: 0.97485
 cta:
   domain: null
   bucket: null
