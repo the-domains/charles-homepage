@@ -1,0 +1,23 @@
+name: "Charles' Homepage"
+favicon: null
+layout_spectrum: 0.17463298770599067
+typography_spectrum: 0.37834457610733807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.19051830749958754
+  lightness: 0.291032399982214
+  saturation: 0.8346078030299395
+  rhythmicContrast: 0.4623833990190178
+purpose: []
